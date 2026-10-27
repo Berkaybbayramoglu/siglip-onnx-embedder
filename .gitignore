@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+
+# Exported model artifacts (generate with `make export`)
+models/*.onnx
+models/*.onnx.data
+models/model_info.json
+models/preprocessor_config.json

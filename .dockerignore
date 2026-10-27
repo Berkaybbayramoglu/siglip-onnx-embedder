@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+.github/
+tests/
+scripts/
+Makefile
+README.md
+LICENSE
+requirements-dev.txt
+pytest.ini
+.gitignore
+.git/
+models/siglip-vision-fp32.onnx
+models/siglip-vision-fp32.onnx.data

@@ -1,0 +1,6 @@
+-r requirements.txt
+torch>=2.5,<3
+transformers>=4.49,<6
+onnx>=1.16
+onnxscript
+pytest>=8.0
